@@ -1,0 +1,2737 @@
+[
+    {
+        "cityserved": "Agra",
+        "airportname": "Agra Airport",
+        "iata": "AGR",
+        "icao": "VIAG",
+        "category": "Domestic",
+        "role": "Civil enclave",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "cityserved": "Agatti Island",
+        "airportname": "Agatti Airport",
+        "iata": "AGX",
+        "icao": "VOAT",
+        "category": "Domestic",
+        "role": "Commercial",
+        "state": "Lakshadweep"
+    },
+    {
+        "cityserved": "Jalandhar",
+        "airportname": "Adampur Airport",
+        "iata": "AIP",
+        "icao": "VIAX",
+        "category": "Domestic",
+        "role": "Civil enclave",
+        "state": "Punjab"
+    },
+    {
+        "cityserved": "Aizawl",
+        "airportname": "Lengpui Airport",
+        "iata": "AJL",
+        "icao": "VELP",
+        "category": "Domestic",
+        "role": "Commercial",
+        "state": "Mizoram"
+    },
+    {
+        "cityserved": "Akola",
+        "airportname": "Akola Airport",
+        "iata": "AKD",
+        "icao": "VAAK",
+        "category": "Domestic",
+        "role": "Closed",
+        "state": "Maharashtra"
+    },
+    {
+        "cityserved": "Ahmedabad",
+        "airportname": "Sardar Vallabhbhai Patel International Airport",
+        "iata": "AMD",
+        "icao": "VAAH",
+        "category": "International",
+        "role": "Commercial",
+        "state": "Gujarat"
+    },
+    {
+        "cityserved": "Amritsar",
+        "airportname": "Sri Guru Ram Dass Jee International Airport",
+        "iata": "ATQ",
+        "icao": "VIAR",
+        "category": "International",
+        "role": "Commercial",
+        "state": "Punjab"
+    },
+    {
+        "cityserved": "Bhubaneswar",
+        "airportname": "Biju Patnaik International Airport",
+        "iata": "BBI",
+        "icao": "VEBS",
+        "category": "International",
+        "role": "Commercial",
+        "state": "Odisha"
+    },
+    {
+        "cityserved": "Vadodara",
+        "airportname": "Vadodara Airport",
+        "iata": "BDQ",
+        "icao": "VABO",
+        "category": "International",
+        "role": "Commercial",
+        "state": "Gujarat"
+    },
+    {
+        "cityserved": "Bareilly",
+        "airportname": "Bareilly Airport",
+        "iata": "BEK",
+        "icao": "VIBY",
+        "category": "Domestic",
+        "role": "Civil enclave",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "cityserved": "Bellary",
+        "airportname": "Bellary Airport",
+        "iata": "BEP",
+        "icao": "VOBI",
+        "category": "Domestic",
+        "role": "No scheduled flights",
+        "state": "Karnataka"
+    },
+    {
+        "cityserved": "Bhuj",
+        "airportname": "Bhuj Airport",
+        "iata": "BHJ",
+        "icao": "VABJ",
+        "category": "Domestic",
+        "role": "Civil enclave",
+        "state": "Gujarat"
+    },
+    {
+        "cityserved": "Bhopal",
+        "airportname": "Raja Bhoj Airport",
+        "iata": "BHO",
+        "icao": "VABP",
+        "category": "Domestic",
+        "role": "Commercial",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "cityserved": "Bhavnagar",
+        "airportname": "Bhavnagar Airport",
+        "iata": "BHU",
+        "icao": "VABV",
+        "category": "Domestic",
+        "role": "Commercial",
+        "state": "Gujarat"
+    },
+    {
+        "cityserved": "Bikaner",
+        "airportname": "Nal Airport",
+        "iata": "BKB",
+        "icao": "VIBK",
+        "category": "Domestic",
+        "role": "Civil enclave",
+        "state": "Rajasthan"
+    },
+    {
+        "cityserved": "Bengaluru",
+        "airportname": "Kempegowda International Airport",
+        "iata": "BLR",
+        "icao": "VOBL",
+        "category": "International",
+        "role": "Commercial",
+        "state": "Karnataka"
+    },
+    {
+        "cityserved": "Berhampur",
+        "airportname": "Berhampur Airport",
+        "iata": "BMP",
+        "icao": "VEBM",
+        "category": "Domestic",
+        "role": "Closed",
+        "state": "Odisha"
+    },
+    {
+        "cityserved": "Mumbai",
+        "airportname": "Chhatrapati Shivaji Maharaj International Airport",
+        "iata": "BOM",
+        "icao": "VABB",
+        "category": "International",
+        "role": "Commercial",
+        "state": "Maharashtra"
+    },
+    {
+        "cityserved": "Hyderabad",
+        "airportname": "Begumpet Airport",
+        "iata": "BPM",
+        "icao": "VOHY",
+        "category": "Domestic",
+        "role": "Flying school",
+        "state": "Telangana"
+    },
+    {
+        "cityserved": "Bathinda",
+        "airportname": "Bathinda Airport",
+        "iata": "BUP",
+        "icao": "VIBT",
+        "category": "Domestic",
+        "role": "Civil enclave",
+        "state": "Punjab"
+    },
+    {
+        "cityserved": "Car Nicobar",
+        "airportname": "Car Nicobar Air Force Base",
+        "iata": "CBD",
+        "icao": "VOCX",
+        "category": "Defence",
+        "role": "Air Force Station",
+        "state": "Andaman and Nicobar Islands"
+    },
+    {
+        "cityserved": "Kozhikode, Malappuram",
+        "airportname": "Calicut International Airport",
+        "iata": "CCJ",
+        "icao": "VOCL",
+        "category": "International",
+        "role": "Commercial",
+        "state": "Kerala"
+    },
+    {
+        "cityserved": "Kolkata",
+        "airportname": "Netaji Subhas Chandra Bose International Airport",
+        "iata": "CCU",
+        "icao": "VECC",
+        "category": "International",
+        "role": "Commercial",
+        "state": "West Bengal"
+    },
+    {
+        "cityserved": "Kadapa",
+        "airportname": "Kadapa Airport",
+        "iata": "CDP",
+        "icao": "VOCP",
+        "category": "Domestic",
+        "role": "Commercial",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "cityserved": "Coimbatore",
+        "airportname": "Coimbatore International Airport",
+        "iata": "CJB",
+        "icao": "VOCB",
+        "category": "International",
+        "role": "Commercial",
+        "state": "Tamil Nadu"
+    },
+    {
+        "cityserved": "Kannur",
+        "airportname": "Kannur International Airport",
+        "iata": "CNN",
+        "icao": "VOKN",
+        "category": "International",
+        "role": "Commercial",
+        "state": "Kerala"
+    },
+    {
+        "cityserved": "Cooch Behar",
+        "airportname": "Cooch Behar Airport",
+        "iata": "COH",
+        "icao": "VECO",
+        "category": "Domestic",
+        "role": "No scheduled flights",
+        "state": "West Bengal"
+    },
+    {
+        "cityserved": "Kochi",
+        "airportname": "Cochin International Airport",
+        "iata": "COK",
+        "icao": "VOCI",
+        "category": "International",
+        "role": "Commercial",
+        "state": "Kerala"
+    },
+    {
+        "cityserved": "Dhanbad",
+        "airportname": "Dhanbad Airport",
+        "iata": "DBD",
+        "icao": "VEDB",
+        "category": "Domestic",
+        "role": "Closed",
+        "state": "Jharkhand"
+    },
+    {
+        "cityserved": "Darbhanga",
+        "airportname": "Darbhanga Airport",
+        "iata": "DBR",
+        "icao": "VE89",
+        "category": "Domestic",
+        "role": "Civil enclave",
+        "state": "Bihar"
+    },
+    {
+        "cityserved": "Dehradun",
+        "airportname": "Jolly Grant Airport",
+        "iata": "DED",
+        "icao": "VIDN",
+        "category": "Domestic",
+        "role": "Commercial",
+        "state": "Uttarakhand"
+    },
+    {
+        "cityserved": "Central NCR",
+        "airportname": "Indira Gandhi International Airport",
+        "iata": "DEL",
+        "icao": "VIDP",
+        "category": "International",
+        "role": "Commercial",
+        "state": "Delhi"
+    },
+    {
+        "cityserved": "Daporijo",
+        "airportname": "Daporijo Airport",
+        "iata": "DEP",
+        "icao": "VEDZ",
+        "category": "Defence",
+        "role": "Closed",
+        "state": "Arunachal Pradesh"
+    },
+    {
+        "cityserved": "Dhule",
+        "airportname": "Dhule Airport",
+        "iata": "DHL",
+        "icao": "VA53",
+        "category": "MADC",
+        "role": "Flying school",
+        "state": "Maharashtra"
+    },
+    {
+        "cityserved": "Dharamshala, Kangra",
+        "airportname": "Kangra Airport",
+        "iata": "DHM",
+        "icao": "VIGG",
+        "category": "Domestic",
+        "role": "Commercial",
+        "state": "Himachal Pradesh"
+    },
+    {
+        "cityserved": "Dibrugarh",
+        "airportname": "Dibrugarh Airport",
+        "iata": "DIB",
+        "icao": "VEMN",
+        "category": "Domestic",
+        "role": "Commercial",
+        "state": "Assam"
+    },
+    {
+        "cityserved": "Diu",
+        "airportname": "Diu Airport",
+        "iata": "DIU",
+        "icao": "VADU",
+        "category": "Domestic",
+        "role": "Commercial",
+        "state": "Dadra and Nagar Haveli and Daman and Diu"
+    },
+    {
+        "cityserved": "Dimapur",
+        "airportname": "Dimapur Airport",
+        "iata": "DMU",
+        "icao": "VEMR",
+        "category": "Domestic",
+        "role": "Commercial",
+        "state": "Nagaland"
+    },
+    {
+        "cityserved": "Ayodhya",
+        "airportname": "Ayodhya Airport",
+        "iata": "FZD",
+        "icao": "VIZD",
+        "category": "Proposed",
+        "role": "—",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "cityserved": "Guwahati",
+        "airportname": "Lokpriya Gopinath Bordoloi International Airport",
+        "iata": "GAU",
+        "icao": "VEGT",
+        "category": "International",
+        "role": "Civil enclave",
+        "state": "Assam"
+    },
+    {
+        "cityserved": "Gaya",
+        "airportname": "Gaya Airport",
+        "iata": "GAY",
+        "icao": "VEGY",
+        "category": "International",
+        "role": "Commercial",
+        "state": "Bihar"
+    },
+    {
+        "cityserved": "Kalaburagi",
+        "airportname": "Gulbarga Airport",
+        "iata": "GBI",
+        "icao": "VOGB",
+        "category": "Domestic",
+        "role": "Commercial",
+        "state": "Karnataka"
+    },
+    {
+        "cityserved": "Dabolim",
+        "airportname": "Dabolim Airport",
+        "iata": "GOI",
+        "icao": "VOGO",
+        "category": "International",
+        "role": "Civil enclave",
+        "state": "Goa"
+    },
+    {
+        "cityserved": "Gorakhpur",
+        "airportname": "Gorakhpur Airport",
+        "iata": "GOP",
+        "icao": "VEGK",
+        "category": "Domestic",
+        "role": "Civil enclave",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "cityserved": "Gwalior",
+        "airportname": "Gwalior Airport",
+        "iata": "GWL",
+        "icao": "VIGR",
+        "category": "Domestic",
+        "role": "Commercial",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "cityserved": "Hubli",
+        "airportname": "Hubli Airport",
+        "iata": "HBX",
+        "icao": "VAHB",
+        "category": "Domestic",
+        "role": "Commercial",
+        "state": "Karnataka"
+    },
+    {
+        "cityserved": "Khajuraho",
+        "airportname": "Khajuraho Airport",
+        "iata": "HJR",
+        "icao": "VEKO",
+        "category": "Domestic",
+        "role": "Commercial",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "cityserved": "Hisar",
+        "airportname": "Hisar Airport",
+        "iata": "HSS",
+        "icao": "VIHR",
+        "category": "Domestic",
+        "role": "No scheduled flights",
+        "state": "Haryana"
+    },
+    {
+        "cityserved": "Hyderabad",
+        "airportname": "Rajiv Gandhi International Airport",
+        "iata": "HYD",
+        "icao": "VOHS",
+        "category": "International",
+        "role": "Commercial",
+        "state": "Telangana"
+    },
+    {
+        "cityserved": "Indore",
+        "airportname": "Devi Ahilya Bai Holkar Airport",
+        "iata": "IDR",
+        "icao": "VAID",
+        "category": "International",
+        "role": "Commercial",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "cityserved": "Imphal",
+        "airportname": "Imphal International Airport",
+        "iata": "IMF",
+        "icao": "VEIM",
+        "category": "International",
+        "role": "Commercial",
+        "state": "Manipur"
+    },
+    {
+        "cityserved": "Karad",
+        "airportname": "Karad Airport",
+        "iata": "IN-0024",
+        "icao": "VA1M",
+        "category": "MADC owned",
+        "role": "Flying school",
+        "state": "Maharashtra"
+    },
+    {
+        "cityserved": "Aamby Valley City",
+        "airportname": "Aamby Valley Airport",
+        "iata": "IN-0033",
+        "icao": "VAAV",
+        "category": "Private",
+        "role": "—",
+        "state": "Maharashtra"
+    },
+    {
+        "cityserved": "Diglipur",
+        "airportname": "INS Kohassa",
+        "iata": "IN-0053",
+        "icao": "VODX",
+        "category": "Defence",
+        "role": "Naval Air Station",
+        "state": "Andaman and Nicobar Islands"
+    },
+    {
+        "cityserved": "Baripada",
+        "airportname": "Rasgovindpur Airstrip",
+        "iata": "IN-0057",
+        "icao": "—",
+        "category": "Domestic",
+        "role": "Closed",
+        "state": "Odisha"
+    },
+    {
+        "cityserved": "Shirpur",
+        "airportname": "Shirpur Airstrip",
+        "iata": "IN-0062",
+        "icao": "—",
+        "category": "Private",
+        "role": "—",
+        "state": "Maharashtra"
+    },
+    {
+        "cityserved": "Angul",
+        "airportname": "Savitri Jindal Airport",
+        "iata": "IN-0073",
+        "icao": "VEAL",
+        "category": "Private",
+        "role": "—",
+        "state": "Odisha"
+    },
+    {
+        "cityserved": "Barbil",
+        "airportname": "Barbil Tonto Aerodrome",
+        "iata": "IN-0074",
+        "icao": "VEBL",
+        "category": "Private",
+        "role": "—",
+        "state": "Odisha"
+    },
+    {
+        "cityserved": "Jajpur",
+        "airportname": "Jajpur Airstrip",
+        "iata": "IN-0092",
+        "icao": "—",
+        "category": "Private",
+        "role": "—",
+        "state": "Odisha"
+    },
+    {
+        "cityserved": "Lanjigarh",
+        "airportname": "Lanjigarh Airstrip",
+        "iata": "IN-0093",
+        "icao": "—",
+        "category": "Private",
+        "role": "—",
+        "state": "Odisha"
+    },
+    {
+        "cityserved": "Nashik",
+        "airportname": "Nashik Airport",
+        "iata": "ISK",
+        "icao": "VAOZ",
+        "category": "Domestic",
+        "role": "Commercial",
+        "state": "Maharashtra"
+    },
+    {
+        "cityserved": "Agartala",
+        "airportname": "Maharaja Bir Bikram Airport",
+        "iata": "IXA",
+        "icao": "VEAT",
+        "category": "Domestic",
+        "role": "Commercial",
+        "state": "Tripura"
+    },
+    {
+        "cityserved": "Siliguri",
+        "airportname": "Bagdogra International Airport",
+        "iata": "IXB",
+        "icao": "VEBD",
+        "category": "International",
+        "role": "Commercial",
+        "state": "West Bengal"
+    },
+    {
+        "cityserved": "Chandigarh",
+        "airportname": "Chandigarh Airport",
+        "iata": "IXC",
+        "icao": "VICG",
+        "category": "Customs",
+        "role": "Civil enclave",
+        "state": "Chandigarh"
+    },
+    {
+        "cityserved": "Allahabad",
+        "airportname": "Allahabad Airport",
+        "iata": "IXD",
+        "icao": "VEAB",
+        "category": "Domestic",
+        "role": "Civil enclave",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "cityserved": "Mangaluru",
+        "airportname": "Mangalore International Airport",
+        "iata": "IXE",
+        "icao": "VOML",
+        "category": "International",
+        "role": "Commercial",
+        "state": "Karnataka"
+    },
+    {
+        "cityserved": "Belgaum",
+        "airportname": "Belgaum Airport",
+        "iata": "IXG",
+        "icao": "VABM",
+        "category": "Domestic",
+        "role": "Commercial",
+        "state": "Karnataka"
+    },
+    {
+        "cityserved": "Kailashahar",
+        "airportname": "Kailashahar Airport",
+        "iata": "IXH",
+        "icao": "VEKR",
+        "category": "Domestic",
+        "role": "Closed",
+        "state": "Tripura"
+    },
+    {
+        "cityserved": "North Lakhimpur",
+        "airportname": "Lilabari Airport",
+        "iata": "IXI",
+        "icao": "VELR",
+        "category": "Domestic",
+        "role": "Commercial",
+        "state": "Assam"
+    },
+    {
+        "cityserved": "Jammu",
+        "airportname": "Jammu Airport",
+        "iata": "IXJ",
+        "icao": "VIJU",
+        "category": "Domestic",
+        "role": "Civil enclave",
+        "state": "Jammu and Kashmir"
+    },
+    {
+        "cityserved": "Keshod",
+        "airportname": "Keshod Airport",
+        "iata": "IXK",
+        "icao": "VAKS",
+        "category": "Proposed",
+        "role": "—",
+        "state": "Gujarat"
+    },
+    {
+        "cityserved": "Leh",
+        "airportname": "Kushok Bakula Rimpochee Airport",
+        "iata": "IXL",
+        "icao": "VILH",
+        "category": "Domestic",
+        "role": "Commercial",
+        "state": "Ladakh"
+    },
+    {
+        "cityserved": "Madurai",
+        "airportname": "Madurai Airport",
+        "iata": "IXM",
+        "icao": "VOMD",
+        "category": "Customs",
+        "role": "Commercial",
+        "state": "Tamil Nadu"
+    },
+    {
+        "cityserved": "Khowai",
+        "airportname": "Khowai Airport",
+        "iata": "IXN",
+        "icao": "VEKW",
+        "category": "Domestic",
+        "role": "Closed",
+        "state": "Tripura"
+    },
+    {
+        "cityserved": "Pathankot",
+        "airportname": "Pathankot Airport",
+        "iata": "IXP",
+        "icao": "VIPK",
+        "category": "Domestic",
+        "role": "Civil enclave",
+        "state": "Punjab"
+    },
+    {
+        "cityserved": "Kamalpur",
+        "airportname": "Kamalpur Airport",
+        "iata": "IXQ",
+        "icao": "VEKM",
+        "category": "Domestic",
+        "role": "Closed",
+        "state": "Tripura"
+    },
+    {
+        "cityserved": "Ranchi",
+        "airportname": "Birsa Munda Airport",
+        "iata": "IXR",
+        "icao": "VERC",
+        "category": "Domestic",
+        "role": "Commercial",
+        "state": "Jharkhand"
+    },
+    {
+        "cityserved": "Silchar",
+        "airportname": "Silchar Airport",
+        "iata": "IXS",
+        "icao": "VEKU",
+        "category": "Domestic",
+        "role": "Civil enclave",
+        "state": "Assam"
+    },
+    {
+        "cityserved": "Pasighat",
+        "airportname": "Pasighat Airport",
+        "iata": "IXT",
+        "icao": "VEPG",
+        "category": "Domestic",
+        "role": "Civil enclave",
+        "state": "Arunachal Pradesh"
+    },
+    {
+        "cityserved": "Aurangabad",
+        "airportname": "Aurangabad Airport",
+        "iata": "IXU",
+        "icao": "VAAU",
+        "category": "Domestic",
+        "role": "Commercial",
+        "state": "Maharashtra"
+    },
+    {
+        "cityserved": "Along",
+        "airportname": "Along Airport",
+        "iata": "IXV",
+        "icao": "VEAN",
+        "category": "Defence",
+        "role": "No scheduled flights",
+        "state": "Arunachal Pradesh"
+    },
+    {
+        "cityserved": "Jamshedpur",
+        "airportname": "Sonari Airport",
+        "iata": "IXW",
+        "icao": "VEJS",
+        "category": "Domestic",
+        "role": "Flying school",
+        "state": "Jharkhand"
+    },
+    {
+        "cityserved": "Bidar",
+        "airportname": "Bidar Airport",
+        "iata": "IXX",
+        "icao": "VOBR",
+        "category": "Domestic",
+        "role": "Commercial",
+        "state": "Karnataka"
+    },
+    {
+        "cityserved": "Kandla",
+        "airportname": "Kandla Airport",
+        "iata": "IXY",
+        "icao": "VAKE",
+        "category": "Domestic",
+        "role": "Commercial",
+        "state": "Gujarat"
+    },
+    {
+        "cityserved": "Port Blair",
+        "airportname": "Veer Savarkar International Airport",
+        "iata": "IXZ",
+        "icao": "VOPB",
+        "category": "International",
+        "role": "Civil enclave",
+        "state": "Andaman and Nicobar Islands"
+    },
+    {
+        "cityserved": "Jaipur",
+        "airportname": "Jaipur International Airport",
+        "iata": "JAI",
+        "icao": "VIJP",
+        "category": "International",
+        "role": "Commercial",
+        "state": "Rajasthan"
+    },
+    {
+        "cityserved": "Jodhpur",
+        "airportname": "Jodhpur Airport",
+        "iata": "JDH",
+        "icao": "VIJO",
+        "category": "Domestic",
+        "role": "Civil enclave",
+        "state": "Rajasthan"
+    },
+    {
+        "cityserved": "Jamnagar",
+        "airportname": "Jamnagar Airport",
+        "iata": "JGA",
+        "icao": "VAJM",
+        "category": "Domestic",
+        "role": "Civil enclave",
+        "state": "Gujarat"
+    },
+    {
+        "cityserved": "Jagdalpur",
+        "airportname": "Jagdalpur Airport",
+        "iata": "JGB",
+        "icao": "VE46",
+        "category": "Domestic",
+        "role": "Commercial",
+        "state": "Chhattisgarh"
+    },
+    {
+        "cityserved": "Jalgaon",
+        "airportname": "Jalgaon Airport",
+        "iata": "JLG",
+        "icao": "VAJL",
+        "category": "Domestic",
+        "role": "Commercial",
+        "state": "Maharashtra"
+    },
+    {
+        "cityserved": "Jabalpur",
+        "airportname": "Jabalpur Airport",
+        "iata": "JLR",
+        "icao": "VAJB",
+        "category": "Domestic",
+        "role": "Commercial",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "cityserved": "Jharsuguda",
+        "airportname": "Veer Surendra Sai Airport",
+        "iata": "JRG",
+        "icao": "VEJH",
+        "category": "Domestic",
+        "role": "Commercial",
+        "state": "Odisha"
+    },
+    {
+        "cityserved": "Jorhat",
+        "airportname": "Jorhat Airport",
+        "iata": "JRH",
+        "icao": "VEJT",
+        "category": "Domestic",
+        "role": "Civil enclave",
+        "state": "Assam"
+    },
+    {
+        "cityserved": "Jaisalmer",
+        "airportname": "Jaisalmer Airport",
+        "iata": "JSA",
+        "icao": "VIJR",
+        "category": "Domestic",
+        "role": "Civil enclave",
+        "state": "Rajasthan"
+    },
+    {
+        "cityserved": "Kurnool",
+        "airportname": "Kurnool Airport",
+        "iata": "KJB",
+        "icao": "VOKU",
+        "category": "Domestic",
+        "role": "Commercial",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "cityserved": "Kolhapur",
+        "airportname": "Chhatrapati Rajaram Maharaj Airport",
+        "iata": "KLH",
+        "icao": "VAKP",
+        "category": "Domestic",
+        "role": "Commercial",
+        "state": "Maharashtra"
+    },
+    {
+        "cityserved": "Khandwa",
+        "airportname": "Khandwa Airport",
+        "iata": "KNQ",
+        "icao": "VADK",
+        "category": "Domestic",
+        "role": "Closed",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "cityserved": "Kanpur",
+        "airportname": "Kanpur Airport",
+        "iata": "KNU",
+        "icao": "VICX",
+        "category": "Domestic",
+        "role": "Civil enclave",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "cityserved": "Ajmer",
+        "airportname": "Kishangarh Airport",
+        "iata": "KQH",
+        "icao": "VIKG",
+        "category": "Domestic",
+        "role": "Commercial",
+        "state": "Rajasthan"
+    },
+    {
+        "cityserved": "Kota",
+        "airportname": "Kota Airport",
+        "iata": "KTU",
+        "icao": "VIKO",
+        "category": "Domestic",
+        "role": "No scheduled flights",
+        "state": "Rajasthan"
+    },
+    {
+        "cityserved": "Kullu, Manali",
+        "airportname": "Kullu Airport",
+        "iata": "KUU",
+        "icao": "VIBR",
+        "category": "Domestic",
+        "role": "Commercial",
+        "state": "Himachal Pradesh"
+    },
+    {
+        "cityserved": "Kalyan",
+        "airportname": "Kalyan Airstrip",
+        "iata": "KYN",
+        "icao": "—",
+        "category": "Domestic",
+        "role": "Closed",
+        "state": "Maharashtra"
+    },
+    {
+        "cityserved": "Malda",
+        "airportname": "Malda Airport",
+        "iata": "LDA",
+        "icao": "VEMH",
+        "category": "Domestic",
+        "role": "Closed",
+        "state": "West Bengal"
+    },
+    {
+        "cityserved": "Lucknow",
+        "airportname": "Chaudhary Charan Singh International Airport",
+        "iata": "LKO",
+        "icao": "VILK",
+        "category": "International",
+        "role": "Commercial",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "cityserved": "Latur",
+        "airportname": "Latur Airport",
+        "iata": "LTU",
+        "icao": "VALT",
+        "category": "MIDC owned",
+        "role": "General aviation",
+        "state": "Maharashtra"
+    },
+    {
+        "cityserved": "Ludhiana",
+        "airportname": "Sahnewal Airport",
+        "iata": "LUH",
+        "icao": "VILD",
+        "category": "Domestic",
+        "role": "Commercial",
+        "state": "Punjab"
+    },
+    {
+        "cityserved": "Chennai",
+        "airportname": "Chennai International Airport",
+        "iata": "MAA",
+        "icao": "VOMM",
+        "category": "International",
+        "role": "Commercial",
+        "state": "Tamil Nadu"
+    },
+    {
+        "cityserved": "Mysuru",
+        "airportname": "Mysore Airport",
+        "iata": "MYQ",
+        "icao": "VOMY",
+        "category": "Domestic",
+        "role": "Commercial",
+        "state": "Karnataka"
+    },
+    {
+        "cityserved": "Muzaffarpur",
+        "airportname": "Muzaffarpur Airport",
+        "iata": "MZU",
+        "icao": "VEMZ",
+        "category": "Proposed",
+        "role": "No scheduled flights",
+        "state": "Bihar"
+    },
+    {
+        "cityserved": "Nagpur",
+        "airportname": "Dr. Babasaheb Ambedkar International Airport",
+        "iata": "NAG",
+        "icao": "VANP",
+        "category": "International",
+        "role": "Commercial",
+        "state": "Maharashtra"
+    },
+    {
+        "cityserved": "Nanded",
+        "airportname": "Shri Guru Gobind Singh Ji Airport",
+        "iata": "NDC",
+        "icao": "VAND",
+        "category": "Domestic",
+        "role": "Commercial",
+        "state": "Maharashtra"
+    },
+    {
+        "cityserved": "Daman",
+        "airportname": "Daman Airport",
+        "iata": "NMB",
+        "icao": "VADN",
+        "category": "Defence",
+        "role": "Air Force Station",
+        "state": "Dadra and Nagar Haveli and Daman and Diu"
+    },
+    {
+        "cityserved": "Pithoragarh",
+        "airportname": "Naini Saini Airport",
+        "iata": "NNS",
+        "icao": "VIDF",
+        "category": "Domestic",
+        "role": "Commercial",
+        "state": "Uttarakhand"
+    },
+    {
+        "cityserved": "Osmanabad",
+        "airportname": "Osmanabad Airport",
+        "iata": "OMN",
+        "icao": "—",
+        "category": "MADC owned",
+        "role": "Flying school",
+        "state": "Maharashtra"
+    },
+    {
+        "cityserved": "Bilaspur",
+        "airportname": "Bilaspur Airport",
+        "iata": "PAB",
+        "icao": "VEBU",
+        "category": "Domestic",
+        "role": "Commercial",
+        "state": "Chhattisgarh"
+    },
+    {
+        "cityserved": "Patna",
+        "airportname": "Jay Prakash Narayan Airport",
+        "iata": "PAT",
+        "icao": "VEPT",
+        "category": "Customs",
+        "role": "Commercial",
+        "state": "Bihar"
+    },
+    {
+        "cityserved": "Porbandar",
+        "airportname": "Porbandar Airport",
+        "iata": "PBD",
+        "icao": "VAPR",
+        "category": "Domestic",
+        "role": "Commercial",
+        "state": "Gujarat"
+    },
+    {
+        "cityserved": "Pantnagar",
+        "airportname": "Pantnagar Airport",
+        "iata": "PGH",
+        "icao": "VIPT",
+        "category": "Domestic",
+        "role": "Commercial",
+        "state": "Uttarakhand"
+    },
+    {
+        "cityserved": "Pune",
+        "airportname": "Pune Airport",
+        "iata": "PNQ",
+        "icao": "VAPO",
+        "category": "Customs",
+        "role": "Civil enclave",
+        "state": "Maharashtra"
+    },
+    {
+        "cityserved": "Pondicherry",
+        "airportname": "Pondicherry Airport",
+        "iata": "PNY",
+        "icao": "VOPC",
+        "category": "Domestic",
+        "role": "Commercial",
+        "state": "Puducherry"
+    },
+    {
+        "cityserved": "Puttaparthi",
+        "airportname": "Sri Sathya Sai Airport",
+        "iata": "PUT",
+        "icao": "VOPN",
+        "category": "Private",
+        "role": "—",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "cityserved": "Jeypore",
+        "airportname": "Jeypore Airport",
+        "iata": "PYB",
+        "icao": "VEJP",
+        "category": "Domestic",
+        "role": "No scheduled flights",
+        "state": "Odisha"
+    },
+    {
+        "cityserved": "Gangtok",
+        "airportname": "Pakyong Airport",
+        "iata": "PYG",
+        "icao": "VEPY",
+        "category": "Domestic",
+        "role": "Commercial",
+        "state": "Sikkim"
+    },
+    {
+        "cityserved": "Rajkot",
+        "airportname": "Rajkot Airport",
+        "iata": "RAJ",
+        "icao": "VARK",
+        "category": "Domestic",
+        "role": "Commercial",
+        "state": "Gujarat"
+    },
+    {
+        "cityserved": "Durgapur, Asansol",
+        "airportname": "Kazi Nazrul Islam Airport",
+        "iata": "RDP",
+        "icao": "VEDG",
+        "category": "Domestic",
+        "role": "Commercial",
+        "state": "West Bengal"
+    },
+    {
+        "cityserved": "Balurghat",
+        "airportname": "Balurghat Airport",
+        "iata": "RGH",
+        "icao": "VEBG",
+        "category": "Domestic",
+        "role": "No scheduled flights",
+        "state": "West Bengal"
+    },
+    {
+        "cityserved": "Rajahmundry",
+        "airportname": "Rajahmundry Airport",
+        "iata": "RJA",
+        "icao": "VORY",
+        "category": "Domestic",
+        "role": "Commercial",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "cityserved": "Rajouri",
+        "airportname": "Rajouri Airport",
+        "iata": "RJI",
+        "icao": "—",
+        "category": "Domestic",
+        "role": "Closed",
+        "state": "Jammu and Kashmir"
+    },
+    {
+        "cityserved": "Raipur",
+        "airportname": "Swami Vivekananda International Airport",
+        "iata": "RPR",
+        "icao": "VERP",
+        "category": "International",
+        "role": "Commercial",
+        "state": "Chhattisgarh"
+    },
+    {
+        "cityserved": "Rourkela",
+        "airportname": "Rourkela Airport",
+        "iata": "RRK",
+        "icao": "VERK",
+        "category": "Domestic",
+        "role": "No scheduled flights",
+        "state": "Odisha"
+    },
+    {
+        "cityserved": "Ratnagiri",
+        "airportname": "Ratnagiri Airport",
+        "iata": "RTC",
+        "icao": "VARG",
+        "category": "Defence",
+        "role": "Coast Guard",
+        "state": "Maharashtra"
+    },
+    {
+        "cityserved": "Dhubri",
+        "airportname": "Rupsi Airport",
+        "iata": "RUP",
+        "icao": "VERU",
+        "category": "Domestic",
+        "role": "Civil enclave",
+        "state": "Assam"
+    },
+    {
+        "cityserved": "Shirdi",
+        "airportname": "Shirdi Airport",
+        "iata": "SAG",
+        "icao": "VASD",
+        "category": "Domestic",
+        "role": "Commercial",
+        "state": "Maharashtra"
+    },
+    {
+        "cityserved": "Sindhudurg",
+        "airportname": "Sindhudurg Airport",
+        "iata": "SDW",
+        "icao": "VOSR",
+        "category": "Domestic",
+        "role": "Commercial",
+        "state": "Maharashtra"
+    },
+    {
+        "cityserved": "Shillong",
+        "airportname": "Shillong Airport",
+        "iata": "SHL",
+        "icao": "VEBI",
+        "category": "Domestic",
+        "role": "Commercial",
+        "state": "Meghalaya"
+    },
+    {
+        "cityserved": "Shimla",
+        "airportname": "Shimla Airport",
+        "iata": "SLV",
+        "icao": "VISM",
+        "category": "Domestic",
+        "role": "Commercial",
+        "state": "Himachal Pradesh"
+    },
+    {
+        "cityserved": "Solapur",
+        "airportname": "Solapur Airport",
+        "iata": "SSE",
+        "icao": "VASL",
+        "category": "Domestic",
+        "role": "No scheduled flights",
+        "state": "Maharashtra"
+    },
+    {
+        "cityserved": "Surat",
+        "airportname": "Surat Airport",
+        "iata": "STV",
+        "icao": "VASU",
+        "category": "Customs",
+        "role": "Commercial",
+        "state": "Gujarat"
+    },
+    {
+        "cityserved": "Srinagar",
+        "airportname": "Sheikh ul-Alam International Airport",
+        "iata": "SXR",
+        "icao": "VISR",
+        "category": "International",
+        "role": "Civil enclave",
+        "state": "Jammu and Kashmir"
+    },
+    {
+        "cityserved": "Salem",
+        "airportname": "Salem Airport",
+        "iata": "SXV",
+        "icao": "VOSM",
+        "category": "Domestic",
+        "role": "Commercial",
+        "state": "Tamil Nadu"
+    },
+    {
+        "cityserved": "Thoothukudi",
+        "airportname": "Tuticorin Airport",
+        "iata": "TCR",
+        "icao": "VOTK",
+        "category": "Domestic",
+        "role": "Commercial",
+        "state": "Tamil Nadu"
+    },
+    {
+        "cityserved": "Tezu",
+        "airportname": "Tezu Airport",
+        "iata": "TEI",
+        "icao": "VETJ",
+        "category": "Domestic",
+        "role": "Civil enclave",
+        "state": "Arunachal Pradesh"
+    },
+    {
+        "cityserved": "Tezpur",
+        "airportname": "Tezpur Airport",
+        "iata": "TEZ",
+        "icao": "VETZ",
+        "category": "Domestic",
+        "role": "Defence",
+        "state": "Assam"
+    },
+    {
+        "cityserved": "Tirupati",
+        "airportname": "Tirupati Airport",
+        "iata": "TIR",
+        "icao": "VOTP",
+        "category": "International",
+        "role": "Commercial",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "cityserved": "Satna",
+        "airportname": "Satna Airport",
+        "iata": "TNI",
+        "icao": "VIST",
+        "category": "Domestic",
+        "role": "No scheduled flights",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "cityserved": "Thiruvananthapuram",
+        "airportname": "Trivandrum International Airport",
+        "iata": "TRV",
+        "icao": "VOTV",
+        "category": "International",
+        "role": "Commercial",
+        "state": "Kerala"
+    },
+    {
+        "cityserved": "Tiruchirappalli",
+        "airportname": "Tiruchirappalli International Airport",
+        "iata": "TRZ",
+        "icao": "VOTR",
+        "category": "International",
+        "role": "Commercial",
+        "state": "Tamil Nadu"
+    },
+    {
+        "cityserved": "Udaipur",
+        "airportname": "Maharana Pratap Airport",
+        "iata": "UDR",
+        "icao": "VAUD",
+        "category": "Domestic",
+        "role": "Commercial",
+        "state": "Rajasthan"
+    },
+    {
+        "cityserved": "Bellary",
+        "airportname": "Jindal Vijaynagar Airport",
+        "iata": "VDY",
+        "icao": "VOJV",
+        "category": "Domestic",
+        "role": "Commercial",
+        "state": "Karnataka"
+    },
+    {
+        "cityserved": "Kushinagar",
+        "airportname": "Kushinagar International Airport",
+        "iata": "VEKI",
+        "icao": "KBK",
+        "category": "International",
+        "role": "Commercial",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "cityserved": "Vijayawada",
+        "airportname": "Vijayawada Airport",
+        "iata": "VGA",
+        "icao": "VOBZ",
+        "category": "International",
+        "role": "Commercial",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "cityserved": "Varanasi",
+        "airportname": "Lal Bahadur Shastri International Airport",
+        "iata": "VNS",
+        "icao": "VEBN",
+        "category": "International",
+        "role": "Commercial",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "cityserved": "Visakhapatnam",
+        "airportname": "Visakhapatnam International Airport",
+        "iata": "VTZ",
+        "icao": "VOVZ",
+        "category": "International",
+        "role": "Commercial",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "cityserved": "Warangal",
+        "airportname": "Warangal Airport",
+        "iata": "WGC",
+        "icao": "VOWA",
+        "category": "Domestic",
+        "role": "Closed",
+        "state": "Telangana"
+    },
+    {
+        "cityserved": "Ziro",
+        "airportname": "Ziro Airport",
+        "iata": "ZER",
+        "icao": "VEZO",
+        "category": "Domestic",
+        "role": "Closed",
+        "state": "Arunachal Pradesh"
+    },
+    {
+        "cityserved": "Akbarpur",
+        "airportname": "Akbarpur (Ambedkar Nagar) Airstrip",
+        "iata": "—",
+        "icao": "VI90",
+        "category": "Private",
+        "role": "—",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "cityserved": "Aligarh",
+        "airportname": "Aligarh Airport",
+        "iata": "—",
+        "icao": "—",
+        "category": "Proposed",
+        "role": "—",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "cityserved": "Ambala",
+        "airportname": "Ambala Air Force Station",
+        "iata": "—",
+        "icao": "VIAM",
+        "category": "Defence",
+        "role": "Air Force Station",
+        "state": "Haryana"
+    },
+    {
+        "cityserved": "Ambikapur",
+        "airportname": "Ambikapur Airport",
+        "iata": "—",
+        "icao": "—",
+        "category": "Domestic",
+        "role": "Closed",
+        "state": "Chhattisgarh"
+    },
+    {
+        "cityserved": "Amravati",
+        "airportname": "Amravati Airport",
+        "iata": "—",
+        "icao": "IN-0065",
+        "category": "MIDC owned",
+        "role": "General aviation",
+        "state": "Maharashtra"
+    },
+    {
+        "cityserved": "Amreli",
+        "airportname": "Amreli Airport",
+        "iata": "—",
+        "icao": "—",
+        "category": "Domestic",
+        "role": "Closed",
+        "state": "Gujarat"
+    },
+    {
+        "cityserved": "Amritsar",
+        "airportname": "Beas Airport",
+        "iata": "—",
+        "icao": "VIBS",
+        "category": "Private",
+        "role": "—",
+        "state": "Punjab"
+    },
+    {
+        "cityserved": "Asansol",
+        "airportname": "Burnpur Airport",
+        "iata": "—",
+        "icao": "VE23",
+        "category": "Private",
+        "role": "—",
+        "state": "West Bengal"
+    },
+    {
+        "cityserved": "Awantipora",
+        "airportname": "Awantipur Air Force Station",
+        "iata": "—",
+        "icao": "VIAW",
+        "category": "Defence",
+        "role": "Air Force Station",
+        "state": "Jammu and Kashmir"
+    },
+    {
+        "cityserved": "Azamgarh",
+        "airportname": "Azamgarh Airport",
+        "iata": "—",
+        "icao": "—",
+        "category": "Proposed",
+        "role": "—",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "cityserved": "Balangir",
+        "airportname": "Nuagaon Airport",
+        "iata": "—",
+        "icao": "VE36",
+        "category": "Domestic",
+        "role": "No scheduled flights",
+        "state": "Odisha"
+    },
+    {
+        "cityserved": "Baramati",
+        "airportname": "Baramati Airport",
+        "iata": "—",
+        "icao": "IN-0024",
+        "category": "MIDC owned",
+        "role": "Flying school",
+        "state": "Maharashtra"
+    },
+    {
+        "cityserved": "Bargarh",
+        "airportname": "Satibhata Airstrip",
+        "iata": "—",
+        "icao": "—",
+        "category": "Domestic",
+        "role": "Closed",
+        "state": "Odisha"
+    },
+    {
+        "cityserved": "Barmer",
+        "airportname": "Uttarlai Air Force Station",
+        "iata": "—",
+        "icao": "VIUT",
+        "category": "Defence",
+        "role": "Air Force Station",
+        "state": "Rajasthan"
+    },
+    {
+        "cityserved": "Barrackpore",
+        "airportname": "Barrackpore Air Force Station",
+        "iata": "—",
+        "icao": "VEBR",
+        "category": "Defence",
+        "role": "Air Force Station",
+        "state": "West Bengal"
+    },
+    {
+        "cityserved": "Behala",
+        "airportname": "Behala Airport",
+        "iata": "—",
+        "icao": "VEBA",
+        "category": "Domestic",
+        "role": "Flying school",
+        "state": "West Bengal"
+    },
+    {
+        "cityserved": "Bengaluru",
+        "airportname": "HAL Airport",
+        "iata": "—",
+        "icao": "VOBG",
+        "category": "Defence",
+        "role": "Aerospace engineering",
+        "state": "Karnataka"
+    },
+    {
+        "cityserved": "Bengaluru",
+        "airportname": "Yelahanka Air Force Station",
+        "iata": "—",
+        "icao": "VOYK",
+        "category": "Defence",
+        "role": "Air Force Station",
+        "state": "Karnataka"
+    },
+    {
+        "cityserved": "Bengaluru",
+        "airportname": "Jakkur Airfield",
+        "iata": "—",
+        "icao": "VOJK",
+        "category": "Domestic",
+        "role": "Flying school",
+        "state": "Karnataka"
+    },
+    {
+        "cityserved": "Bhagalpur",
+        "airportname": "Bhagalpur Airport",
+        "iata": "—",
+        "icao": "—",
+        "category": "Domestic",
+        "role": "No scheduled flights",
+        "state": "Bihar"
+    },
+    {
+        "cityserved": "Bhawanipatna",
+        "airportname": "Utkela Airstrip",
+        "iata": "—",
+        "icao": "VEUK",
+        "category": "Domestic",
+        "role": "No scheduled flights",
+        "state": "Odisha"
+    },
+    {
+        "cityserved": "Bhilai",
+        "airportname": "Bhilai Airport",
+        "iata": "—",
+        "icao": "—",
+        "category": "Private",
+        "role": "—",
+        "state": "Chhattisgarh"
+    },
+    {
+        "cityserved": "Bhiwani",
+        "airportname": "Bhiwani Airport",
+        "iata": "—",
+        "icao": "VIBW",
+        "category": "Domestic",
+        "role": "Closed",
+        "state": "Haryana"
+    },
+    {
+        "cityserved": "Bihta",
+        "airportname": "Bihta Air Force Station",
+        "iata": "—",
+        "icao": "—",
+        "category": "Proposed",
+        "role": "—",
+        "state": "Bihar"
+    },
+    {
+        "cityserved": "Bijapur",
+        "airportname": "Bijapur Airport",
+        "iata": "—",
+        "icao": "—",
+        "category": "Proposed",
+        "role": "—",
+        "state": "Karnataka"
+    },
+    {
+        "cityserved": "Bokaro",
+        "airportname": "Bokaro Airport",
+        "iata": "—",
+        "icao": "VEBK",
+        "category": "Domestic",
+        "role": "No scheduled flights",
+        "state": "Jharkhand"
+    },
+    {
+        "cityserved": "Campbell Bay",
+        "airportname": "INS Baaz",
+        "iata": "—",
+        "icao": "VOBX",
+        "category": "Defence",
+        "role": "Naval Air Station",
+        "state": "Andaman and Nicobar Islands"
+    },
+    {
+        "cityserved": "Central NCR",
+        "airportname": "Safdarjung Airport",
+        "iata": "—",
+        "icao": "VIDD",
+        "category": "Domestic",
+        "role": "Closed",
+        "state": "Delhi"
+    },
+    {
+        "cityserved": "Chabua",
+        "airportname": "Chabua Air Force Station",
+        "iata": "—",
+        "icao": "VECA",
+        "category": "Defence",
+        "role": "Air Force Station",
+        "state": "Assam"
+    },
+    {
+        "cityserved": "Chakulia",
+        "airportname": "Chakulia Airport",
+        "iata": "—",
+        "icao": "VECK",
+        "category": "Defence",
+        "role": "Closed",
+        "state": "Jharkhand"
+    },
+    {
+        "cityserved": "Chandrapur",
+        "airportname": "Chandrapur Airport",
+        "iata": "—",
+        "icao": "VA1B",
+        "category": "MADC owned",
+        "role": "General aviation",
+        "state": "Maharashtra"
+    },
+    {
+        "cityserved": "Chandrapur",
+        "airportname": "Chandrapur Greenfield Airport",
+        "iata": "—",
+        "icao": "—",
+        "category": "Proposed",
+        "role": "—",
+        "state": "Maharashtra"
+    },
+    {
+        "cityserved": "Chaukhutia",
+        "airportname": "Chaukhutia Airport",
+        "iata": "—",
+        "icao": "—",
+        "category": "Proposed",
+        "role": "—",
+        "state": "Uttarakhand"
+    },
+    {
+        "cityserved": "Chinyalisaur",
+        "airportname": "Maa Ganga Airport",
+        "iata": "—",
+        "icao": "VI82",
+        "category": "Private",
+        "role": "—",
+        "state": "Uttarakhand"
+    },
+    {
+        "cityserved": "Chitradurga",
+        "airportname": "Chitradurga Aeronautical Test Range",
+        "iata": "—",
+        "icao": "—",
+        "category": "Defence",
+        "role": "Air Force Station",
+        "state": "Karnataka"
+    },
+    {
+        "cityserved": "Chitrakoot Dham",
+        "airportname": "Chitrakoot Airport",
+        "iata": "—",
+        "icao": "—",
+        "category": "Proposed",
+        "role": "—",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "cityserved": "Cuttack",
+        "airportname": "Charbatia Air Force Station",
+        "iata": "—",
+        "icao": "—",
+        "category": "Defence",
+        "role": "Air Force Station",
+        "state": "Odisha"
+    },
+    {
+        "cityserved": "Deoghar",
+        "airportname": "Deoghar Airport",
+        "iata": "—",
+        "icao": "IN-0090",
+        "category": "Proposed",
+        "role": "—",
+        "state": "Jharkhand"
+    },
+    {
+        "cityserved": "Dhamra",
+        "airportname": "Dhamra Airport",
+        "iata": "—",
+        "icao": "—",
+        "category": "Proposed",
+        "role": "—",
+        "state": "Odisha"
+    },
+    {
+        "cityserved": "Dhenkanal",
+        "airportname": "Birasal Airstrip",
+        "iata": "—",
+        "icao": "—",
+        "category": "Domestic",
+        "role": "Flying school",
+        "state": "Odisha"
+    },
+    {
+        "cityserved": "Dholera",
+        "airportname": "Dholera Airport",
+        "iata": "—",
+        "icao": "—",
+        "category": "Proposed",
+        "role": "—",
+        "state": "Gujarat"
+    },
+    {
+        "cityserved": "Dinjan",
+        "airportname": "Dinjan Airfield",
+        "iata": "—",
+        "icao": "—",
+        "category": "Defence",
+        "role": "Closed",
+        "state": "Assam"
+    },
+    {
+        "cityserved": "Donakonda",
+        "airportname": "Donakonda Airport",
+        "iata": "—",
+        "icao": "VODK",
+        "category": "Domestic",
+        "role": "Closed",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "cityserved": "Doom Dooma",
+        "airportname": "Sookerating Air Force Station",
+        "iata": "—",
+        "icao": "—",
+        "category": "Defence",
+        "role": "Air Force Station",
+        "state": "Assam"
+    },
+    {
+        "cityserved": "Dumka",
+        "airportname": "Dumka Airport",
+        "iata": "—",
+        "icao": "IN-0100",
+        "category": "Domestic",
+        "role": "Closed",
+        "state": "Jharkhand"
+    },
+    {
+        "cityserved": "Etawah",
+        "airportname": "Saifai Airstrip",
+        "iata": "—",
+        "icao": "—",
+        "category": "Private",
+        "role": "—",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "cityserved": "Farrukhabad",
+        "airportname": "Mohammadabad Airstrip",
+        "iata": "—",
+        "icao": "—",
+        "category": "Private",
+        "role": "—",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "cityserved": "Ghaziabad",
+        "airportname": "Hindon Airport",
+        "iata": "—",
+        "icao": "VIDX",
+        "category": "Domestic",
+        "role": "Civil enclave",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "cityserved": "Ghazipur",
+        "airportname": "Andhau Airstrip",
+        "iata": "—",
+        "icao": "VI25",
+        "category": "Private",
+        "role": "—",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "cityserved": "Gondia",
+        "airportname": "Gondia Airport",
+        "iata": "—",
+        "icao": "VAGD",
+        "category": "Domestic",
+        "role": "Flying school",
+        "state": "Maharashtra"
+    },
+    {
+        "cityserved": "Gurugram",
+        "airportname": "Gurugram Airstrip",
+        "iata": "—",
+        "icao": "—",
+        "category": "Domestic",
+        "role": "Recreational airstrip",
+        "state": "Haryana"
+    },
+    {
+        "cityserved": "Halwara",
+        "airportname": "Halwara Air Force Station",
+        "iata": "—",
+        "icao": "VIHX",
+        "category": "Defence",
+        "role": "Air Force Station",
+        "state": "Punjab"
+    },
+    {
+        "cityserved": "Harihar",
+        "airportname": "Harihar Airport",
+        "iata": "—",
+        "icao": "VO52",
+        "category": "Private",
+        "role": "—",
+        "state": "Karnataka"
+    },
+    {
+        "cityserved": "Hasimara",
+        "airportname": "Hasimara Air Force Station",
+        "iata": "—",
+        "icao": "VE44",
+        "category": "Defence",
+        "role": "Air Force Station",
+        "state": "West Bengal"
+    },
+    {
+        "cityserved": "Hassan",
+        "airportname": "Hassan Airport",
+        "iata": "—",
+        "icao": "—",
+        "category": "Proposed",
+        "role": "—",
+        "state": "Karnataka"
+    },
+    {
+        "cityserved": "Hirakud/Sambalpur",
+        "airportname": "Hirakud Airstrip",
+        "iata": "—",
+        "icao": "VEHK",
+        "category": "Domestic",
+        "role": "Closed",
+        "state": "Odisha"
+    },
+    {
+        "cityserved": "Hyderabad",
+        "airportname": "Dundigul Air Force Academy",
+        "iata": "—",
+        "icao": "VODG",
+        "category": "Defence",
+        "role": "Flying school",
+        "state": "Telangana"
+    },
+    {
+        "cityserved": "Hyderabad",
+        "airportname": "Nadirgul Airport",
+        "iata": "—",
+        "icao": "—",
+        "category": "Domestic",
+        "role": "Flying school",
+        "state": "Telangana"
+    },
+    {
+        "cityserved": "Itanagar",
+        "airportname": "Itanagar Airport",
+        "iata": "—",
+        "icao": "—",
+        "category": "Proposed",
+        "role": "—",
+        "state": "Arunachal Pradesh"
+    },
+    {
+        "cityserved": "Jamshedpur",
+        "airportname": "Dhalbhumgarh Airport",
+        "iata": "—",
+        "icao": "—",
+        "category": "Proposed",
+        "role": "—",
+        "state": "Jharkhand"
+    },
+    {
+        "cityserved": "Jashpur",
+        "airportname": "Jashpur Airport",
+        "iata": "—",
+        "icao": "—",
+        "category": "Domestic",
+        "role": "Closed",
+        "state": "Chhattisgarh"
+    },
+    {
+        "cityserved": "Jhalawar",
+        "airportname": "Kolana Airport",
+        "iata": "—",
+        "icao": "—",
+        "category": "Domestic",
+        "role": "No scheduled flights",
+        "state": "Rajasthan"
+    },
+    {
+        "cityserved": "Jhansi",
+        "airportname": "Jhansi Airport",
+        "iata": "—",
+        "icao": "VIJN",
+        "category": "Proposed",
+        "role": "—",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "cityserved": "Jogbani",
+        "airportname": "Jogbani Airport",
+        "iata": "—",
+        "icao": "—",
+        "category": "Domestic",
+        "role": "Closed",
+        "state": "Bihar"
+    },
+    {
+        "cityserved": "Kanchrapara",
+        "airportname": "Kanchrapara Airfield",
+        "iata": "—",
+        "icao": "—",
+        "category": "Defence",
+        "role": "Closed",
+        "state": "West Bengal"
+    },
+    {
+        "cityserved": "Kanpur",
+        "airportname": "Flight Laboratory, IIT Kanpur",
+        "iata": "—",
+        "icao": "—",
+        "category": "Private",
+        "role": "Aerospace engineering",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "cityserved": "Kanpur",
+        "airportname": "Kanpur Civil Aerodrome",
+        "iata": "—",
+        "icao": "VIKA",
+        "category": "Domestic",
+        "role": "Closed",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "cityserved": "Kanpur Dehat",
+        "airportname": "Marhamtabad Airstrip",
+        "iata": "—",
+        "icao": "—",
+        "category": "Private",
+        "role": "—",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "cityserved": "Karaikal",
+        "airportname": "Karaikal Airport",
+        "iata": "—",
+        "icao": "—",
+        "category": "Proposed",
+        "role": "—",
+        "state": "Puducherry"
+    },
+    {
+        "cityserved": "Kargil",
+        "airportname": "Kargil Airport",
+        "iata": "—",
+        "icao": "VI65",
+        "category": "Defence",
+        "role": "Air Force Station",
+        "state": "Ladakh"
+    },
+    {
+        "cityserved": "Karnal",
+        "airportname": "Karnal Airport",
+        "iata": "—",
+        "icao": "VI40",
+        "category": "Domestic",
+        "role": "Flying school",
+        "state": "Haryana"
+    },
+    {
+        "cityserved": "Karwar",
+        "airportname": "Karwar Airport",
+        "iata": "—",
+        "icao": "—",
+        "category": "Proposed",
+        "role": "—",
+        "state": "Karnataka"
+    },
+    {
+        "cityserved": "Kasargod",
+        "airportname": "Bekal Airport",
+        "iata": "—",
+        "icao": "—",
+        "category": "Proposed",
+        "role": "—",
+        "state": "Kerala"
+    },
+    {
+        "cityserved": "Kendujhar",
+        "airportname": "Kendujhar Airstrip",
+        "iata": "—",
+        "icao": "VEKJ",
+        "category": "Private",
+        "role": "—",
+        "state": "Odisha"
+    },
+    {
+        "cityserved": "Kharagpur",
+        "airportname": "Kalaikunda Air Force Station",
+        "iata": "—",
+        "icao": "VEDX",
+        "category": "Defence",
+        "role": "Air Force Station",
+        "state": "West Bengal"
+    },
+    {
+        "cityserved": "Kishtwar",
+        "airportname": "Kishtwar Airstrip",
+        "iata": "—",
+        "icao": "—",
+        "category": "Domestic",
+        "role": "Closed",
+        "state": "Jammu and Kashmir"
+    },
+    {
+        "cityserved": "Kochi",
+        "airportname": "INS Garuda",
+        "iata": "—",
+        "icao": "VOCC",
+        "category": "Defence",
+        "role": "Air Force Station",
+        "state": "Kerala"
+    },
+    {
+        "cityserved": "Kohima",
+        "airportname": "Kohima Chiethu Airport",
+        "iata": "—",
+        "icao": "—",
+        "category": "Under Construction",
+        "role": "—",
+        "state": "Nagaland"
+    },
+    {
+        "cityserved": "Kollam",
+        "airportname": "Quilon Aerodrome",
+        "iata": "—",
+        "icao": "—",
+        "category": "Kerala PWD",
+        "role": "Closed",
+        "state": "Kerala"
+    },
+    {
+        "cityserved": "Korba",
+        "airportname": "Korba Airport",
+        "iata": "—",
+        "icao": "—",
+        "category": "Domestic",
+        "role": "Closed",
+        "state": "Chhattisgarh"
+    },
+    {
+        "cityserved": "Kothagudem",
+        "airportname": "Kothagudem Airport",
+        "iata": "—",
+        "icao": "—",
+        "category": "Proposed",
+        "role": "—",
+        "state": "Telangana"
+    },
+    {
+        "cityserved": "Kottayam, Pathanamthitta",
+        "airportname": "Sabarimala Airport",
+        "iata": "—",
+        "icao": "—",
+        "category": "Proposed",
+        "role": "—",
+        "state": "Kerala"
+    },
+    {
+        "cityserved": "Kozhikode, Malappuram",
+        "airportname": "Thiruvambady Airport",
+        "iata": "—",
+        "icao": "—",
+        "category": "Proposed",
+        "role": "—",
+        "state": "Kerala"
+    },
+    {
+        "cityserved": "Kuppam",
+        "airportname": "Kuppam Airport",
+        "iata": "—",
+        "icao": "—",
+        "category": "Proposed",
+        "role": "—",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "cityserved": "Lakhimpur Kheri",
+        "airportname": "Palia Airstrip",
+        "iata": "—",
+        "icao": "VI25",
+        "category": "Private",
+        "role": "—",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "cityserved": "Lalitpur",
+        "airportname": "Lalitpur Airport",
+        "iata": "—",
+        "icao": "—",
+        "category": "Proposed",
+        "role": "—",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "cityserved": "Ledo",
+        "airportname": "Ledo Airfield",
+        "iata": "—",
+        "icao": "—",
+        "category": "Defence",
+        "role": "Closed",
+        "state": "Assam"
+    },
+    {
+        "cityserved": "Lucknow",
+        "airportname": "Lucknow Air Force Station",
+        "iata": "—",
+        "icao": "VIBL",
+        "category": "Defence",
+        "role": "Air Force Station",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "cityserved": "Mandi",
+        "airportname": "Mandi Airport",
+        "iata": "—",
+        "icao": "—",
+        "category": "Proposed",
+        "role": "—",
+        "state": "Himachal Pradesh"
+    },
+    {
+        "cityserved": "Mechuka",
+        "airportname": "Mechuka Advanced Landing Ground",
+        "iata": "—",
+        "icao": "VE67",
+        "category": "Defence",
+        "role": "Air Force Station",
+        "state": "Arunachal Pradesh"
+    },
+    {
+        "cityserved": "Meerut",
+        "airportname": "Dr. Bhimrao Ambedkar Airstrip",
+        "iata": "—",
+        "icao": "VI2B",
+        "category": "Private",
+        "role": "—",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "cityserved": "Mehsana",
+        "airportname": "Mehsana Airport",
+        "iata": "—",
+        "icao": "—",
+        "category": "Private",
+        "role": "Flying school",
+        "state": "Gujarat"
+    },
+    {
+        "cityserved": "Mopa",
+        "airportname": "Mopa Airport",
+        "iata": "—",
+        "icao": "—",
+        "category": "Proposed",
+        "role": "—",
+        "state": "Goa"
+    },
+    {
+        "cityserved": "Moradabad",
+        "airportname": "Moradabad Airport",
+        "iata": "—",
+        "icao": "—",
+        "category": "Proposed",
+        "role": "—",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "cityserved": "Mumbai",
+        "airportname": "Juhu Aerodrome",
+        "iata": "—",
+        "icao": "VAJJ",
+        "category": "Domestic",
+        "role": "General aviation",
+        "state": "Maharashtra"
+    },
+    {
+        "cityserved": "Mundra",
+        "airportname": "Mundra Airport",
+        "iata": "—",
+        "icao": "VAMA",
+        "category": "Domestic",
+        "role": "Commercial",
+        "state": "Gujarat"
+    },
+    {
+        "cityserved": "Munger",
+        "airportname": "Munger Airport",
+        "iata": "—",
+        "icao": "—",
+        "category": "Domestic",
+        "role": "No scheduled flights",
+        "state": "Bihar"
+    },
+    {
+        "cityserved": "Nagarjuna Sagar",
+        "airportname": "Nagarjuna Sagar Airport",
+        "iata": "—",
+        "icao": "VONS",
+        "category": "Domestic",
+        "role": "Closed",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "cityserved": "Naliya",
+        "airportname": "Naliya Air Force Station",
+        "iata": "—",
+        "icao": "VANY",
+        "category": "Defence",
+        "role": "Air Force Station",
+        "state": "Gujarat"
+    },
+    {
+        "cityserved": "Narnaul",
+        "airportname": "Narnaul Airport",
+        "iata": "—",
+        "icao": "VINL",
+        "category": "Domestic",
+        "role": "Closed",
+        "state": "Haryana"
+    },
+    {
+        "cityserved": "Nashik",
+        "airportname": "Gandhinagar Airport",
+        "iata": "—",
+        "icao": "VANR",
+        "category": "Defence",
+        "role": "Air Force Station",
+        "state": "Maharashtra"
+    },
+    {
+        "cityserved": "Nashik",
+        "airportname": "Vijay Nagar Airport",
+        "iata": "—",
+        "icao": "VADE",
+        "category": "Defence",
+        "role": "Air Force Station",
+        "state": "Maharashtra"
+    },
+    {
+        "cityserved": "Navi Mumbai",
+        "airportname": "Navi Mumbai International Airport",
+        "iata": "—",
+        "icao": "—",
+        "category": "Proposed",
+        "role": "—",
+        "state": "Maharashtra"
+    },
+    {
+        "cityserved": "Nellore",
+        "airportname": "Nellore Airport",
+        "iata": "—",
+        "icao": "—",
+        "category": "Proposed",
+        "role": "—",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "cityserved": "Nizamabad",
+        "airportname": "Nizamabad Airport",
+        "iata": "—",
+        "icao": "—",
+        "category": "Proposed",
+        "role": "—",
+        "state": "Telangana"
+    },
+    {
+        "cityserved": "Noida",
+        "airportname": "Noida International Airport",
+        "iata": "—",
+        "icao": "—",
+        "category": "Proposed",
+        "role": "—",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "cityserved": "North Lakhimpur",
+        "airportname": "Shella Airport",
+        "iata": "—",
+        "icao": "—",
+        "category": "Domestic",
+        "role": "Closed",
+        "state": "Assam"
+    },
+    {
+        "cityserved": "Nuapada",
+        "airportname": "Nawapara Airport",
+        "iata": "—",
+        "icao": "VENP",
+        "category": "Domestic",
+        "role": "Closed",
+        "state": "Odisha"
+    },
+    {
+        "cityserved": "Palanpur",
+        "airportname": "Palanpur Airport",
+        "iata": "—",
+        "icao": "—",
+        "category": "Domestic",
+        "role": "Closed",
+        "state": "Gujarat"
+    },
+    {
+        "cityserved": "Panagarh",
+        "airportname": "Panagarh Airport",
+        "iata": "—",
+        "icao": "VEPH",
+        "category": "Defence",
+        "role": "Air Force Station",
+        "state": "West Bengal"
+    },
+    {
+        "cityserved": "Panchkula",
+        "airportname": "Pinjore Airport",
+        "iata": "—",
+        "icao": "VI71",
+        "category": "Domestic",
+        "role": "Flying School",
+        "state": "Haryana"
+    },
+    {
+        "cityserved": "Patiala",
+        "airportname": "Patiala Airport",
+        "iata": "—",
+        "icao": "VIPL",
+        "category": "Private",
+        "role": "Flying school",
+        "state": "Punjab"
+    },
+    {
+        "cityserved": "Phalodi",
+        "airportname": "Phalodi Air Force Station",
+        "iata": "—",
+        "icao": "VIPX",
+        "category": "Defence",
+        "role": "Air Force Station",
+        "state": "Rajasthan"
+    },
+    {
+        "cityserved": "Phulbani",
+        "airportname": "Phulbani Airstrip",
+        "iata": "—",
+        "icao": "VEPN",
+        "category": "Private",
+        "role": "—",
+        "state": "Odisha"
+    },
+    {
+        "cityserved": "Pune",
+        "airportname": "Hadapsar Airport",
+        "iata": "—",
+        "icao": "—",
+        "category": "Domestic",
+        "role": "Flying school",
+        "state": "Maharashtra"
+    },
+    {
+        "cityserved": "Pune",
+        "airportname": "Chhatrapati Sambhaji Raje International Airport",
+        "iata": "—",
+        "icao": "—",
+        "category": "Proposed",
+        "role": "—",
+        "state": "Maharashtra"
+    },
+    {
+        "cityserved": "Purnea",
+        "airportname": "Purnea Airport",
+        "iata": "—",
+        "icao": "VEPU",
+        "category": "Defence",
+        "role": "Air Force Station",
+        "state": "Bihar"
+    },
+    {
+        "cityserved": "Purulia",
+        "airportname": "Charra Airfield",
+        "iata": "—",
+        "icao": "—",
+        "category": "Defence",
+        "role": "Closed",
+        "state": "West Bengal"
+    },
+    {
+        "cityserved": "Raebareli",
+        "airportname": "Fursatganj Airfield",
+        "iata": "—",
+        "icao": "VERB",
+        "category": "Private",
+        "role": "Flying school",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "cityserved": "Raichur",
+        "airportname": "Raichur Airport",
+        "iata": "—",
+        "icao": "—",
+        "category": "Proposed",
+        "role": "—",
+        "state": "Karnataka"
+    },
+    {
+        "cityserved": "Raigarh",
+        "airportname": "Raigarh Airport",
+        "iata": "—",
+        "icao": "VERH",
+        "category": "Domestic",
+        "role": "Closed",
+        "state": "Chhattisgarh"
+    },
+    {
+        "cityserved": "Rairangpur",
+        "airportname": "Rairangpur Airport",
+        "iata": "—",
+        "icao": "—",
+        "category": "Domestic",
+        "role": "Closed",
+        "state": "Odisha"
+    },
+    {
+        "cityserved": "Rajkot",
+        "airportname": "Rajkot Greenfield Airport",
+        "iata": "—",
+        "icao": "—",
+        "category": "Proposed",
+        "role": "—",
+        "state": "Gujarat"
+    },
+    {
+        "cityserved": "Ramagundam",
+        "airportname": "Ramagundam Airport",
+        "iata": "—",
+        "icao": "—",
+        "category": "Proposed",
+        "role": "—",
+        "state": "Telangana"
+    },
+    {
+        "cityserved": "Raxaul",
+        "airportname": "Raxaul Airport",
+        "iata": "—",
+        "icao": "VERL",
+        "category": "Domestic",
+        "role": "Closed",
+        "state": "Bihar"
+    },
+    {
+        "cityserved": "Rayagada",
+        "airportname": "Gunupur Airstrip",
+        "iata": "—",
+        "icao": "—",
+        "category": "Domestic",
+        "role": "Closed",
+        "state": "Odisha"
+    },
+    {
+        "cityserved": "Rayagada",
+        "airportname": "Therubali Airport",
+        "iata": "—",
+        "icao": "—",
+        "category": "Domestic",
+        "role": "Closed",
+        "state": "Odisha"
+    },
+    {
+        "cityserved": "Sagar",
+        "airportname": "Dhana Airport",
+        "iata": "—",
+        "icao": "—",
+        "category": "Domestic",
+        "role": "Closed",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "cityserved": "Saharanpur",
+        "airportname": "Sarsawa Airport",
+        "iata": "—",
+        "icao": "—",
+        "category": "Proposed",
+        "role": "—",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "cityserved": "Shivamogga",
+        "airportname": "Shivamogga Airport",
+        "iata": "—",
+        "icao": "—",
+        "category": "Under Construction",
+        "role": "—",
+        "state": "Karnataka"
+    },
+    {
+        "cityserved": "Shravasti",
+        "airportname": "Shravasti Airport",
+        "iata": "—",
+        "icao": "—",
+        "category": "Proposed",
+        "role": "—",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "cityserved": "Sirsa",
+        "airportname": "Sirsa Air Force Station",
+        "iata": "—",
+        "icao": "VISA",
+        "category": "Defence",
+        "role": "Air Force Station",
+        "state": "Haryana"
+    },
+    {
+        "cityserved": "Sonbhadra",
+        "airportname": "Muirpur Airport",
+        "iata": "—",
+        "icao": "VI1D",
+        "category": "Proposed",
+        "role": "—",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "cityserved": "Sri Ganganagar",
+        "airportname": "Lalgarh Airport",
+        "iata": "—",
+        "category": "Domestic",
+        "role": "Commercial",
+        "state": "Rajasthan"
+    },
+    {
+        "cityserved": "Sultanpur",
+        "airportname": "Amhat Airstrip",
+        "iata": "—",
+        "icao": "—",
+        "category": "Private",
+        "role": "—",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "cityserved": "Sulur",
+        "airportname": "Sulur Air Force Station",
+        "iata": "—",
+        "icao": "VOSX",
+        "category": "Defence",
+        "role": "Air Force Station",
+        "state": "Tamil Nadu"
+    },
+    {
+        "cityserved": "Suratgarh",
+        "airportname": "Suratgarh Air Force Station",
+        "iata": "—",
+        "icao": "VI43",
+        "category": "Defence",
+        "role": "Air Force Station",
+        "state": "Rajasthan"
+    },
+    {
+        "cityserved": "Tambaram",
+        "airportname": "Tambaram Air Force Station",
+        "iata": "—",
+        "icao": "VOTX",
+        "category": "Defence",
+        "role": "Air Force Station",
+        "state": "Tamil Nadu"
+    },
+    {
+        "cityserved": "Tawang",
+        "airportname": "Tawang Air Force Station",
+        "iata": "—",
+        "icao": "—",
+        "category": "Defence",
+        "role": "Air Force Station",
+        "state": "Arunachal Pradesh"
+    },
+    {
+        "cityserved": "Thanjavur",
+        "airportname": "Thanjavur Air Force Station",
+        "iata": "—",
+        "icao": "VOTJ",
+        "category": "Defence",
+        "role": "Air Force Station",
+        "state": "Tamil Nadu"
+    },
+    {
+        "cityserved": "Thoise",
+        "airportname": "Thoise",
+        "iata": "—",
+        "icao": "VI57",
+        "category": "Defence",
+        "role": "Air Force airfield",
+        "state": "Ladakh"
+    },
+    {
+        "cityserved": "Tura",
+        "airportname": "Baljek Airport",
+        "iata": "—",
+        "icao": "VETU",
+        "category": "Domestic",
+        "role": "No scheduled flights",
+        "state": "Meghalaya"
+    },
+    {
+        "cityserved": "Tuting",
+        "airportname": "Tuting Advanced Landing Ground",
+        "iata": "—",
+        "icao": "—",
+        "category": "Defence",
+        "role": "Air Force Station",
+        "state": "Arunachal Pradesh"
+    },
+    {
+        "cityserved": "Udhampur",
+        "airportname": "Udhampur Air Force Station",
+        "iata": "—",
+        "icao": "VIUM",
+        "category": "Defence",
+        "role": "Air Force Station",
+        "state": "Jammu and Kashmir"
+    },
+    {
+        "cityserved": "Ujjain",
+        "airportname": "Ujjain Airstrip",
+        "iata": "—",
+        "icao": "—",
+        "category": "Domestic",
+        "role": "Closed",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "cityserved": "Vellore",
+        "airportname": "Vellore Airport",
+        "iata": "—",
+        "icao": "VOVR",
+        "category": "Domestic",
+        "role": "No scheduled flights",
+        "state": "Tamil Nadu"
+    },
+    {
+        "cityserved": "Visakhapatnam",
+        "airportname": "Bhogapuram Airport",
+        "iata": "—",
+        "icao": "—",
+        "category": "Proposed",
+        "role": "—",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "cityserved": "Walong",
+        "airportname": "Walong Advanced Landing Ground",
+        "iata": "—",
+        "icao": "—",
+        "category": "Defence",
+        "role": "Air Force Station",
+        "state": "Arunachal Pradesh"
+    },
+    {
+        "cityserved": "Yavatmal",
+        "airportname": "Yavatmal Airport",
+        "iata": "—",
+        "icao": "VA78",
+        "category": "Domestic",
+        "role": "No scheduled flights",
+        "state": "Maharashtra"
+    }
+]
