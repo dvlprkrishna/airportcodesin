@@ -85,6 +85,12 @@ export default function About() {
             </ListItem>
           </List>
         </Typography>
+        <Typography variant="caption">
+          Initial version of this site -{" "}
+          <a href="https://airport-codes-v1.netlify.app/" target="_blank">
+            https://airport-codes-v1.netlify.app/
+          </a>
+        </Typography>
       </Box>
     </div>
   );
