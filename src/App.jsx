@@ -1,5 +1,4 @@
-import React, { useState } from "react";
-import reactLogo from "./assets/logo.png";
+import React from "react";
 import "./App.css";
 import "@fontsource/roboto/300.css";
 import "@fontsource/roboto/400.css";
@@ -8,21 +7,9 @@ import "@fontsource/roboto/700.css";
 import "@fontsource/audiowide";
 import "@fontsource/roboto-condensed";
 import CssBaseline from "@mui/material/CssBaseline";
-import {
-  Sidebar,
-  Menu,
-  MenuItem,
-  SubMenu,
-  ProSidebarProvider,
-} from "react-pro-sidebar";
+import { ProSidebarProvider } from "react-pro-sidebar";
 
-import {
-  Box,
-  Button,
-  Container,
-  ThemeProvider,
-  Typography,
-} from "@mui/material";
+import { Box, ThemeProvider } from "@mui/material";
 import AppHeader from "./components/AppHeader";
 import theme from "./config/theme";
 import { BrowserRouter } from "react-router-dom";

@@ -1,18 +1,5 @@
-import {
-  AppBar,
-  Box,
-  IconButton,
-  Toolbar,
-  Typography,
-  Badge,
-  Button,
-  Link,
-} from "@mui/material";
+import { AppBar, Box, Toolbar, Link } from "@mui/material";
 import React from "react";
-import MenuTwoToneIcon from "@mui/icons-material/MenuTwoTone";
-import NotificationsIcon from "@mui/icons-material/Notifications";
-import SettingsIcon from "@mui/icons-material/Settings";
-import LogoutIcon from "@mui/icons-material/Logout";
 
 import { styled, alpha } from "@mui/material/styles";
 import { useProSidebar } from "react-pro-sidebar";
@@ -81,7 +68,7 @@ export default function AppHeader() {
     <AppBar sx={styles.appBar} position="sticky">
       <Toolbar sx={{ mx: 4 }}>
         <Link href="/">
-          <Box component="img" sx={styles.appLogo} src="/src/assets/logo.png" />
+          <Box component="img" sx={styles.appLogo} src="/assets/logo.png" />
         </Link>
         <Box sx={{ flexGrow: 1 }} />
         <Search sx={{ mr: 3 }}>
